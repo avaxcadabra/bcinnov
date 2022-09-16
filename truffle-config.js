@@ -4,7 +4,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider")
 const protocol = "http"
 const ip = "localhost"
 const port = 9650
-const blockchain = "2BEDN7HrZGETv6uZSUxuW5G29hvEMa4PpgWuavm1iEyjP9VUxy"
+const blockchain = "2VKvYHWy68UNRAkwBDNhJBHnQAQZwXgxP9SENyJLRKpgTHLbBW"
 Web3.providers.HttpProvider.prototype.sendAsync =
   Web3.providers.HttpProvider.prototype.send
 const provider = new Web3.providers.HttpProvider(
@@ -26,7 +26,7 @@ const privateKeys = [
 
 module.exports = {
   networks: {
-    avaxcadabra: {
+    blockchaininnnov: {
       provider: () => {
         return new HDWalletProvider({
           privateKeys: privateKeys,
