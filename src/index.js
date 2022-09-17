@@ -11,16 +11,16 @@ async function connect() {
 async function chain() {
      let ethereum = window.ethereum;
      const data = [{
-         chainId: '0x1A',
-         chainName: 'avaxcadabra',
+         chainId: '0x1092',
+         chainName: 'blockchaininnnov',
          nativeCurrency:
              {
-                 name: 'avaxcadabra',
-                 symbol: 'AXD',
+                 name: 'blockchaininnnov',
+                 symbol: 'BCI',
                  decimals: 18
              },
-         rpcUrls: ['http://pedro.dcbra.in:9650/ext/bc/2BEDN7HrZGETv6uZSUxuW5G29hvEMa4PpgWuavm1iEyjP9VUxy/rpc'],
-         blockExplorerUrls: ['http://pedro.dcbra.in:8000'],
+         rpcUrls: ['http://127.0.0.1:9650/ext/bc/2VKvYHWy68UNRAkwBDNhJBHnQAQZwXgxP9SENyJLRKpgTHLbBW/rpc'],
+         blockExplorerUrls: ['http://127.0.0.1:8000'],
      }]
      const tx = await ethereum.request({method: 'wallet_addEthereumChain', params: data}).catch()
      if (tx) {
