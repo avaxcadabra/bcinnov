@@ -1,30 +1,32 @@
-{
-    "title": "Community",
-    "links": [
-      {
-        "text": "Twitter",
-        "url": "https://twitter.com/Ztampio"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/Cw9uvvWXa7"
-      },
-      {
-        "text": "Linkedin",
-        "url": "https://www.linkedin.com/company/ztamp"
-      }
-      {
-        "text": "Youtube",
-        "url": "https://www.youtube.com/channel/UCqes8qDZoXlTaHx1nmndVtw"
-      }
-    ]
-  },
+[
   {
-    "title": "About Ztamp.io",
-    "links": [
-      {
-        "text": "About",
-        "url": "https://ztamp.io"
-      }
-    ]
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter",
+          "url": "https://twitter.com/Ztampio"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/Cw9uvvWXa7"
+        },
+        {
+          "text": "Linkedin",
+          "url": "https://www.linkedin.com/company/ztamp"
+        }
+        {
+          "text": "Youtube",
+          "url": "https://www.youtube.com/channel/UCqes8qDZoXlTaHx1nmndVtw"
+        }
+      ]  
+    },
+    {
+      "title": "About Ztamp.io",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://ztamp.io"
+        }
+      ]
   }
+]
