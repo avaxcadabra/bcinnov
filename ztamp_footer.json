@@ -1,6 +1,6 @@
 [
   {
-      "title": "Community",
+      "title": "Ztamp Community",
       "links": [
         {
           "text": "Twitter",
@@ -21,10 +21,10 @@
       ]  
     },
   {
-      "title": "About Ztamp.io",
+      "title": "About Ztamp",
       "links": [
         {
-          "text": "About",
+          "text": "Ztamp website",
           "url": "https://ztamp.io"
         }
       ]
