@@ -1,62 +1,32 @@
 [
   {
-    "title": "Developers",
-    "links": [
-      {
-        "text": "Documentation",
-        "url": "https://docs.base.org/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/base-org"
-      }
-    ]
-  },
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter",
+          "url": "https://twitter.com/Ztampio"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/Cw9uvvWXa7"
+        },
+        {
+          "text": "Linkedin",
+          "url": "https://www.linkedin.com/company/ztamp"
+        },
+        {
+          "text": "Youtube",
+          "url": "https://www.youtube.com/channel/UCqes8qDZoXlTaHx1nmndVtw"
+        }
+      ]  
+    },
   {
-    "title": "Community",
-    "links": [
-      {
-        "text": "Twitter",
-        "url": "https://twitter.com/buildonbase"
-      },
-      {
-        "text": "Discord",
-        "url": "https://base.org/discord"
-      },
-      {
-        "text": "Blog",
-        "url": "https://base.mirror.xyz/"
-      }
-    ]
-  },
-  {
-    "title": "About Base",
-    "links": [
-      {
-        "text": "About",
-        "url": "https://base.org/about"
-      }
-    ]
-  },
-   {
-    "title": "Partners",
-    "links": [
-      {
-        "text": "MetaDock",
-        "url": "https://blocksec.com/metadock"
-      },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
-      }
-    ]
-  }
+      "title": "About Ztamp.io",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://ztamp.io"
+        }
+      ]
+   }
 ]
